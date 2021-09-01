@@ -1,0 +1,41 @@
+{
+  "name": "@alanaudi/colors",
+  "version": "0.1.0",
+  "description": "Yet another color pack.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write 'src/**/*.ts'",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alanaudi/colors.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "copic",
+    "color",
+    "color system"
+  ],
+  "author": "alanaudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanaudi/colors/issues"
+  },
+  "homepage": "https://github.com/alanaudi/colors#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.9",
+    "jest": "^27.1.0",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.5",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.4.2"
+  }
+}

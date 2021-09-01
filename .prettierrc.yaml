@@ -1,0 +1,16 @@
+# line length to wrap, default: 80
+printWidth: 80
+# semocolon at the end of statement, default: true
+semi: false
+# print trailing commas wherever possible in multi-line comma-separated
+# syntactic structures.
+# default: "es5"
+# options: "all", "none"
+trailingComma: "es5"
+# spaces between brackets in object literals, default: true
+brackerSapcing: true
+singleQuote: true
+# include parentheses around a sole arrow function parameter, default: "always"
+arrowParens: "always"
+# the number of spaces per indentation-level.
+tabWidth: 2

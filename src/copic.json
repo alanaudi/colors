@@ -1,0 +1,3990 @@
+[
+  // A (3)
+  {
+    "code": "0",
+    "name": {
+      "en": "Colorless Blender",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFFFFF",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "100",
+    "name": {
+      "en": "Black",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#2F2521",
+    "inClassic": true,
+    "inCiao": true 
+  },
+  {
+    "code": "110",
+    "name": {
+      "en": "Special Black",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#221815",
+    "inClassic": true,
+    "inCiao": false 
+  },
+  // F (8)
+  {
+    "code": "FRV1",
+    "name": {
+      "en": "Fluorescent Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F3A9C9",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "FYR1",
+    "name": {
+      "en": "Fluorescent Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBD39C",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "FY1",
+    "name": {
+      "en": "Fluorescent Yellow Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFF796",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    // TODO: FYG1 more like yellow green
+    "code": "FYG1",
+    "name": {
+      "en": "Fluorescent Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D7E3A2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "FYG2",
+    "name": {
+      "en": "Fluorescent Dull Yellow Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A2CB23",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "FBG2",
+    "name": {
+      "en": "Fluorescent Dull Blue Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#71C9E8",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "FB2",
+    "name": {
+      "en": "Fluorescent Dull Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#0089CE",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "FV2",
+    "name": {
+      "en": "Fluorescent Dull Violet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8471B2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // B (35)
+  {
+    "code": "B0000",
+    "name": {
+      "en": "Pale Celestine",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5FBFE",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "B000",
+    "name": {
+      "en": "Pale Porcelain Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EDF7F7",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B00",
+    "name": {
+      "en": "Frost Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E6F4F7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B01",
+    "name": {
+      "en": "Mint Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E0F1F4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B02",
+    "name": {
+      "en": "Robin's Egg Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C0E4F2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B04",
+    "name": {
+      "en": "Tahitian Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#80CDE7",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B05",
+    "name": {
+      "en": "Process Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#4EC1E6",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B06",
+    "name": {
+      "en": "Peacock Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#00A7E3",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B12",
+    "name": {
+      "en": "Ice Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D4EAF2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B14",
+    "name": {
+      "en": "Light Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7FCDEC",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B16",
+    "name": {
+      "en": "Cyanine Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#00B4E8",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B18",
+    "name": {
+      "en": "Lapis Lazuli",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#0086C9",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B21",
+    "name": {
+      "en": "Baby Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E6F2FB",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B23",
+    "name": {
+      "en": "Phthalo Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A1C8EB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B24",
+    "name": {
+      "en": "Sky",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9AD2F3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B26",
+    "name": {
+      "en": "Cobalt Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#70B4E4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B28",
+    "name": {
+      "en": "Royal Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#0D64B0",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B29",
+    "name": {
+      "en": "Ultramarine",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#006DBB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B32",
+    "name": {
+      "en": "Pale Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EAF4F9",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B34",
+    "name": {
+      "en": "Manganese Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8FC6EC",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B37",
+    "name": {
+      "en": "Antwerp Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#0068A2",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B39",
+    "name": {
+      "en": "Prussian Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#255DA7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B41",
+    "name": {
+      "en": "Powder Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EAF4FC",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "B45",
+    "name": {
+      "en": "Smoky Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#82C2EB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "B52",
+    "name": {
+      "en": "Soft Greenish Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BED6E3",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "B60",
+    "name": {
+      "en": "Pale Blue Gray",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E3E7F5",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B63",
+    "name": {
+      "en": "Light Hydrangea",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B4C2E3",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B66",
+    "name": {
+      "en": "Clematis",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#6C88C4",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "B69",
+    "name": {
+      "en": "Stratospheric Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#035AA9",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "B79",
+    "name": {
+      "en": "Iris",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#313994",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "B91",
+    "name": {
+      "en": "Pale Grayish Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DFE8EF",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "B93",
+    "name": {
+      "en": "Light Crockery Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A2C8E0",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B95",
+    "name": {
+      "en": "Light Grayish Cobalt",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7AAACA",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B97",
+    "name": {
+      "en": "Night Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#3D7599",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "B99",
+    "name": {
+      "en": "Agate",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#004977",
+    "inClassic": false,
+    "inCiao": true
+  },
+  // BG (27)
+  {
+    "code": "BG0000",
+    "name": {
+      "en": "Snow Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F4F9F6",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG000",
+    "name": {
+      "en": "Pale Aqua",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EDF6F2",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BG01",
+    "name": {
+      "en": "Aqua Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D3EBFA",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BG02",
+    "name": {
+      "en": "New Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D2EBEE",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "BG05",
+    "name": {
+      "en": "Holiday Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#91D2E6",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG07",
+    "name": {
+      "en": "Petroleum Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#11B3D1",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG09",
+    "name": {
+      "en": "Blue Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#00ACCB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG10",
+    "name": {
+      "en": "Cool Shadow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E7F4F3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG11",
+    "name": {
+      "en": "Moon White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D9EEF4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "BG13",
+    "name": {
+      "en": "Mint Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D0EAED",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG15",
+    "name": {
+      "en": "Aqua",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#AEDBD5",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG18",
+    "name": {
+      "en": "Teal Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#42B9AC",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "BG23",
+    "name": {
+      "en": "Coral Sea",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C9E6E0",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG32",
+    "name": {
+      "en": "Aqua Mint",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C7E5DA",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "BG34",
+    "name": {
+      "en": "Horizon Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B0DCDB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG45",
+    "name": {
+      "en": "Nile Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BCE2E4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "BG49",
+    "name": {
+      "en": "Duck Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#00AEB6",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BG53",
+    "name": {
+      "en": "Ice Mint",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#6BC5CB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG57",
+    "name": {
+      "en": "Jasper",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#1C9393",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG70",
+    "name": {
+      "en": "Ocean Mist",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EBF3EB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG72",
+    "name": {
+      "en": "Ice Ocean",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7BBABE",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BG75",
+    "name": {
+      "en": "Abyss Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#538F8D",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG78",
+    "name": {
+      "en": "Bronze",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#3D6D64",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG90",
+    "name": {
+      "en": "Gray Sky",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E2E4CE",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BG93",
+    "name": {
+      "en": "Green Gray",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E2E4CE",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BG96",
+    "name": {
+      "en": "Bush",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#90AD99",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BG99",
+    "name": {
+      "en": "Flagstone Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7CA58F",
+    "inClassic": true,
+    "inCiao": false
+  },
+  // G (25)
+  {
+    "code": "G0000",
+    "name": {
+      "en": "Crystal Opal",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6FAF6",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "G000",
+    "name": {
+      "en": "Pale Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFF7F0",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "G00",
+    "name": {
+      "en": "Jade Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EBF5F0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G02",
+    "name": {
+      "en": "Spectrum Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D8EBD8",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G03",
+    "name": {
+      "en": "Meadow Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BEDC98",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "G05",
+    "name": {
+      "en": "Emerald Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#6BBC6E",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G07",
+    "name": {
+      "en": "Nile Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#80C26B",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G09",
+    "name": {
+      "en": "Veronese Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7DC058",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G12",
+    "name": {
+      "en": "Sea Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DBEBC8",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G14",
+    "name": {
+      "en": "Apple Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9FCF88",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G16",
+    "name": {
+      "en": "Malachite",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#62BD92",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G17",
+    "name": {
+      "en": "Forest Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#00AA74",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G19",
+    "name": {
+      "en": "Bright Parrot Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#2CB280",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G20",
+    "name": {
+      "en": "Wax White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F2F7E0",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G21",
+    "name": {
+      "en": "Lime Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#CFE7D1",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G24",
+    "name": {
+      "en": "Willow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#CBE3B5",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G28",
+    "name": {
+      "en": "Ocean Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#00925C",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G29",
+    "name": {
+      "en": "Pine Tree Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#207F5C",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G40",
+    "name": {
+      "en": "Dim Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ECF5E3",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "G43",
+    "name": {
+      "en": "Pistachio",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#97B564",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "G46",
+    "name": {
+      "en": "Mistletoe",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#567A55",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "G82",
+    "name": {
+      "en": "Spring Dim Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D9E3C2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G85",
+    "name": {
+      "en": "Verdigris",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ACCCB0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "G94",
+    "name": {
+      "en": "Grayish Olive",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A0AD83",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "G99",
+    "name": {
+      "en": "Olive",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#6B8631",
+    "inClassic": true,
+    "inCiao": true
+  },
+  // YG (24)
+  {
+    "code": "YG0000",
+    "name": {
+      "en": "Lily White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6F9E4",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YG00",
+    "name": {
+      "en": "Mimosa Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EBEB9E",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YG01",
+    "name": {
+      "en": "Green Bice",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E9EFB4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG03",
+    "name": {
+      "en": "Yellow Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E6EDAB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG05",
+    "name": {
+      "en": "Salad",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DEE88E",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG06",
+    "name": {
+      "en": "Yellowish Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#CDE18D",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YG07",
+    "name": {
+      "en": "Acid Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#AACE36",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG09",
+    "name": {
+      "en": "Lettuce Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#83C257",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG11",
+    "name": {
+      "en": "Mignonette",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EAF2D3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG13",
+    "name": {
+      "en": "Chartreuse",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DBE79D",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG17",
+    "name": {
+      "en": "Grass Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#71BB48",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG21",
+    "name": {
+      "en": "Anise",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBF8C2",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG23",
+    "name": {
+      "en": "New Leaf",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ECED8E",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG25",
+    "name": {
+      "en": "Celadon Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D6E272",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG41",
+    "name": {
+      "en": "Pale Cobalt Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DFEED8",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG45",
+    "name": {
+      "en": "Cobalt Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BFDFB8",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG61",
+    "name": {
+      "en": "Pale Moss",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C4D4A2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YG63",
+    "name": {
+      "en": "Pea Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ADD1A4",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG67",
+    "name": {
+      "en": "Moss",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8AC287",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG91",
+    "name": {
+      "en": "Putty",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E1DEB3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG93",
+    "name": {
+      "en": "Grayish Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D9D99D",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YG95",
+    "name": {
+      "en": "Pale Olive",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D6D057",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YG97",
+    "name": {
+      "en": "Spanish Olive",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A09A00",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YG99",
+    "name": {
+      "en": "Marine Green",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#596F00",
+    "inClassic": true,
+    "inCiao": false
+  },
+  // Y (20)
+  {
+    "code": "Y0000",
+    "name": {
+      "en": "Yellow Fluorite",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFFEF8",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "Y000",
+    "name": {
+      "en": "Pale Lemon",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFFDEF",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "Y00",
+    "name": {
+      "en": "Barium Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFFDE7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y02",
+    "name": {
+      "en": "Canary Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAF3A2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y04",
+    "name": {
+      "en": "Acacia",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F0E664",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "Y06",
+    "name": {
+      "en": "Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FEF37A",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y08",
+    "name": {
+      "en": "Acid Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDEF50",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y11",
+    "name": {
+      "en": "Pale Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFFBD5",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y13",
+    "name": {
+      "en": "Lemon Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDF7B9",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "Y15",
+    "name": {
+      "en": "Cadmium Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FCEA79",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y17",
+    "name": {
+      "en": "Golden Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBE665",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y18",
+    "name": {
+      "en": "Lightning Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDEE67",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "Y19",
+    "name": {
+      "en": "Napoli Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FCEA57",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "Y21",
+    "name": {
+      "en": "Buttercup Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDF1CB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "Y23",
+    "name": {
+      "en": "Yellowish Beige",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAEAC0",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "Y26",
+    "name": {
+      "en": "Mustard",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F2E275",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "Y28",
+    "name": {
+      "en": "Lionet Gold",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C9AF6B",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "Y32",
+    "name": {
+      "en": "Cashmere",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F7E5CB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "Y35",
+    "name": {
+      "en": "Maize",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F9DD82",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "Y38",
+    "name": {
+      "en": "Honey",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F8D87D",
+    "inClassic": true,
+    "inCiao": true
+  },
+  // YR (24)
+  {
+    "code": "YR0000",
+    "name": {
+      "en": "Pale Chiffon",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDF6ED",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YR000",
+    "name": {
+      "en": "Silk",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FCF0E1",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YR00",
+    "name": {
+      "en": "Powder Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F7DEC7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YR01",
+    "name": {
+      "en": "Peach Puff",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F8E1CB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YR02",
+    "name": {
+      "en": "Light Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F8E3D0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YR04",
+    "name": {
+      "en": "Chrome Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F4CA70",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YR07",
+    "name": {
+      "en": "Cadmium Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DD733D",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YR09",
+    "name": {
+      "en": "Chinese Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YR12",
+    "name": {
+      "en": "Loquat",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBE7B0",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YR14",
+    "name": {
+      "en": "Caramel",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6CF5C",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YR15",
+    "name": {
+      "en": "Pumpkin Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFBF8B",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YR16",
+    "name": {
+      "en": "Apricot",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1BF41",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YR18",
+    "name": {
+      "en": "Sanguine",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DC6F3E",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YR20",
+    "name": {
+      "en": "Yellowish Shade",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAE8CA",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YR21",
+    "name": {
+      "en": "Cream",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F4E4BB",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YR23",
+    "name": {
+      "en": "Yellow Ochre",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ECD998",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "YR24",
+    "name": {
+      "en": "Pale Sepia",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F0D970",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "YR27",
+    "name": {
+      "en": "Tuscan Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#AE5A3F",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YR30",
+    "name": {
+      "en": "Macadamia Nut",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F8F0D6",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YR31",
+    "name": {
+      "en": "Light Reddish Yellow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAE4B2",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YR61",
+    "name": {
+      "en": "Spring Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F8E1CD",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YR65",
+    "name": {
+      "en": "Atoll",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EDB566",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "YR68",
+    "name": {
+      "en": "Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DD732C",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "YR82",
+    "name": {
+      "en": "Mellow Peach",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F3CD96",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // R (30)
+  {
+    "code": "R0000",
+    "name": {
+      "en": "Pink Beryl",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDF7F3",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R000",
+    "name": {
+      "en": "Cherry White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FCF3ED",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "R00",
+    "name": {
+      "en": "Pinkish White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBF0E8",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R01",
+    "name": {
+      "en": "Pinkish Vanilla",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F9E9E2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R02",
+    "name": {
+      "en": "Rose Salmon",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5DBCF",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R05",
+    "name": {
+      "en": "Salmon Red",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E4987E",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R08",
+    "name": {
+      "en": "Vermilion",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DB6951",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "R11",
+    "name": {
+      "en": "Pale Cherry Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F9E8DD",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R12",
+    "name": {
+      "en": "Light Tea Rose",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5DBCA",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R14",
+    "name": {
+      "en": "Light Rouge",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E7A396",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "R17",
+    "name": {
+      "en": "Lipstick Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E1896B",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R20",
+    "name": {
+      "en": "Blush",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6DFD9",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R21",
+    "name": {
+      "en": "Sardonyx",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1CABF",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R22",
+    "name": {
+      "en": "Light Prawn",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EEC0B9",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "R24",
+    "name": {
+      "en": "Prawn",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DD7978",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "R27",
+    "name": {
+      "en": "Cadmium Red",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D8565B",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R29",
+    "name": {
+      "en": "Lipstick Red",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D32D44",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R30",
+    "name": {
+      "en": "Pale Yellowish Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAEBE7",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R32",
+    "name": {
+      "en": "Peach",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F0CAC2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R35",
+    "name": {
+      "en": "Coral",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DC7581",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R37",
+    "name": {
+      "en": "Carmine",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D77273",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R39",
+    "name": {
+      "en": "Garnet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BE5078",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "R43",
+    "name": {
+      "en": "Bougainvillaea",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DD898E",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R46",
+    "name": {
+      "en": "#CC5162",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "R56",
+    "name": {
+      "en": "Currant",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#97545D",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R59",
+    "name": {
+      "en": "Cardinal",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B15772",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "R81",
+    "name": {
+      "en": "Rose Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFD4DD",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "R83",
+    "name": {
+      "en": "Rose Mist",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E4A5BB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "R85",
+    "name": {
+      "en": "Rose Red",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C86E92",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "R89",
+    "name": {
+      "en": "Dark Red",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7C2F41",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // RV (29)
+  {
+    "code": "RV0000",
+    "name": {
+      "en": "Evening Primrose",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5F0F6",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV000",
+    "name": {
+      "en": "Pale Purple",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5EAF2",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "RV00",
+    "name": {
+      "en": "Water Lily",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1E2ED",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV02",
+    "name": {
+      "en": "Sugared Almond Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5DEE9",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV04",
+    "name": {
+      "en": "Shock Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E8ACC2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV06",
+    "name": {
+      "en": "Cerise",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E08CAD",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV09",
+    "name": {
+      "en": "Fuchsia",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D175A4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "RV10",
+    "name": {
+      "en": "Pale Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBF1F6",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV11",
+    "name": {
+      "en": "Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6DFE3",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "RV13",
+    "name": {
+      "en": "Tender Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F2D2DE",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV14",
+    "name": {
+      "en": "Begonia Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E49BB7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV17",
+    "name": {
+      "en": "Deep Magenta",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D183AD",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "RV19",
+    "name": {
+      "en": "Red Violet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C66C9F",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "RV21",
+    "name": {
+      "en": "Light Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAEFEE",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV23",
+    "name": {
+      "en": "Pure Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EEC4CE",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "RV25",
+    "name": {
+      "en": "Dog Rose Flower",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E49CBC",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "RV29",
+    "name": {
+      "en": "Crimson",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D64D78",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV32",
+    "name": {
+      "en": "Shadow Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5DCD7",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "RV34",
+    "name": {
+      "en": "Dark Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ECB9B5",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "RV42",
+    "name": {
+      "en": "Salmon Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFC4BD",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "RV52",
+    "name": {
+      "en": "Cotton Candy",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ECBBD2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV55",
+    "name": {
+      "en": "Hollyhock",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D57CA6",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV63",
+    "name": {
+      "en": "Begonia",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DAA2C2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV66",
+    "name": {
+      "en": "Raspberry",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#984D77",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV69",
+    "name": {
+      "en": "Peony",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#89586C",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "RV91",
+    "name": {
+      "en": "Grayish Cherry",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EADEE8",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV93",
+    "name": {
+      "en": "Smoky Purple",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E3C0D0",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "RV95",
+    "name": {
+      "en": "Baby Blossoms",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B78DA5",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "RV99",
+    "name": {
+      "en": "Argyle Purple",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#5D4959",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // V (18)
+  {
+    "code": "V0000",
+    "name": {
+      "en": "Rose Quartz",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F4F2F8",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "V000",
+    "name": {
+      "en": "Pale Health",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFEBF4",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "V01",
+    "name": {
+      "en": "Health",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E4CBDD",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "V04",
+    "name": {
+      "en": "Lilac",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E0B5CF",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "V05",
+    "name": {
+      "en": "Azalea",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DDB0CC",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "V06",
+    "name": {
+      "en": "Lavender",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "V09",
+    "name": {
+      "en": "Violet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#814F94",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "V12",
+    "name": {
+      "en": "Pale Lilac",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EEDEEB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "V15",
+    "name": {
+      "en": "Mallow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D3B1CE",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "V17",
+    "name": {
+      "en": "Amethyst",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A698C3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "V20",
+    "name": {
+      "en": "Wisteria",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DDD7DE",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "V22",
+    "name": {
+      "en": "Ash Lavender",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BFB8CB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "V25",
+    "name": {
+      "en": "Pale Blackberry",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8E85A0",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "V28",
+    "name": {
+      "en": "Eggplant",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#5B5971",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "V91",
+    "name": {
+      "en": "Pale Grape",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E7CED7",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "V93",
+    "name": {
+      "en": "Early Grape",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E4CBDE",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "V95",
+    "name": {
+      "en": "Light Grape",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B380A4",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "V99",
+    "name": {
+      "en": "Aubergine",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#443B4D",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // BV (16)
+  {
+    "code": "BV0000",
+    "name": {
+      "en": "Pale Thistle",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFEDF5",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BV000",
+    "name": {
+      "en": "Iridescent Mauve",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#ECE7F1",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BV00",
+    "name": {
+      "en": "Mauve Shadow",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E8E3F0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BV01",
+    "name": {
+      "en": "Viola",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D0D1E7",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BV02",
+    "name": {
+      "en": "Prune",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B8C0DD",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BV04",
+    "name": {
+      "en": "Blue Berry",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#899ACA",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BV08",
+    "name": {
+      "en": "Blue Violet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A081B3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BV11",
+    "name": {
+      "en": "Soft Violet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DDDAEB",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BV13",
+    "name": {
+      "en": "Hydrangea Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8D94C4",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BV17",
+    "name": {
+      "en": "Deep Reddish Blue",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7484B8",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BV20",
+    "name": {
+      "en": "Dull Lavender",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DBE2F1",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "BV23",
+    "name": {
+      "en": "Grayish Lavender",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C2CBE1",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BV25",
+    "name": {
+      "en": "Grayish Violet",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8585A7",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BV29",
+    "name": {
+      "en": "Slate",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#2F3F50",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "BV31",
+    "name": {
+      "en": "Pale Lavender",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E5E8F4",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "BV34",
+    "name": {
+      "en": "Bluebell",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#787D9E",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // E (53)
+  {
+    "code": "E0000",
+    "name": {
+      "en": "Floral White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FFFCF8",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E000",
+    "name": {
+      "en": "Pale Fruit Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FEF8F2",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E00",
+    "name": {
+      "en": "Cotton Pearl",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDF7F0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E01",
+    "name": {
+      "en": "Pink Flamingo",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FCF3EA",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E02",
+    "name": {
+      "en": "Fruit Pink",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E04",
+    "name": {
+      "en": "Lipstick Natural",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E4C9CE",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E07",
+    "name": {
+      "en": "Light Mahogany",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C98C70",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E08",
+    "name": {
+      "en": "Brown",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C16D54",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E09",
+    "name": {
+      "en": "Burnt Sienna",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#CC6D4D",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E11",
+    "name": {
+      "en": "Barley Beige",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FBEFE0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E13",
+    "name": {
+      "en": "Light Suntan",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E8D0BB",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E15",
+    "name": {
+      "en": "Dark Suntan",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F0C394",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E17",
+    "name": {
+      "en": "Reddish Brass",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#AE6050",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E18",
+    "name": {
+      "en": "Copper",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#835146",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E19",
+    "name": {
+      "en": "Redwood",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B75436",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E21",
+    "name": {
+      "en": "Soft Sun",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAE9D3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E23",
+    "name": {
+      "en": "Hazelnut",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B48163",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E25",
+    "name": {
+      "en": "Caribe Cocoa",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D4B18E",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E27",
+    "name": {
+      "en": "Milk Chocolate",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9C7C63",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E29",
+    "name": {
+      "en": "Burnt Umber",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7C4231",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E30",
+    "name": {
+      "en": "Bisque",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FAF5E1",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E31",
+    "name": {
+      "en": "Brick Beige",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5ECD9",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E33",
+    "name": {
+      "en": "Sand",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1DBBC",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E34",
+    "name": {
+      "en": "Toast",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EED5B2",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E35",
+    "name": {
+      "en": "Chamois",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E7D0B1",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E37",
+    "name": {
+      "en": "Sepia",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#CB9E62",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E39",
+    "name": {
+      "en": "Leather",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#BD763E",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E40",
+    "name": {
+      "en": "Brick White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F7F1E7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E41",
+    "name": {
+      "en": "Pearl White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FDF4EA",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E42",
+    "name": {
+      "en": "Sand White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6F0E3",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E43",
+    "name": {
+      "en": "Dull Ivory",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EEE6CC",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E44",
+    "name": {
+      "en": "Clay",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D0C7B5",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E47",
+    "name": {
+      "en": "Dark Brown",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8D7963",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E49",
+    "name": {
+      "en": "Dark Bark",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#68503B",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E50",
+    "name": {
+      "en": "Egg Shell",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F5F1F3",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E51",
+    "name": {
+      "en": "Milky White",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#FCF0DF",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E53",
+    "name": {
+      "en": "Raw Silk",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6EDCF",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E55",
+    "name": {
+      "en": "Light Camel",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F3E6C5",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "E57",
+    "name": {
+      "en": "Light Walnut",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B69363",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E59",
+    "name": {
+      "en": "Walnut",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9F876D",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E70",
+    "name": {
+      "en": "Ash Rose",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F4EFEC",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E71",
+    "name": {
+      "en": "Champagne",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E8E0DB",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E74",
+    "name": {
+      "en": "Cocoa Brown",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A99185",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E77",
+    "name": {
+      "en": "Maroon",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#83654D",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "E79",
+    "name": {
+      "en": "Cashew",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#472E21",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E81",
+    "name": {
+      "en": "Ivory",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E2D6B0",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E84",
+    "name": {
+      "en": "Khaki",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9D895C",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E87",
+    "name": {
+      "en": "Fig",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#6D604A",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E89",
+    "name": {
+      "en": "Pecan",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#4C463F",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E93",
+    "name": {
+      "en": "Tea Rose",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F6DAC2",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E95",
+    "name": {
+      "en": "Tea Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1C485",
+    "inClassic": false,
+    "inCiao": true
+  },
+  {
+    "code": "E97",
+    "name": {
+      "en": "Deep Orange",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E2A361",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "E99",
+    "name": {
+      "en": "Baked Clay",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#AB6031",
+    "inClassic": false,
+    "inCiao": false
+  },
+  // C (12)
+  {
+    "code": "C-00",
+    "name": {
+      "en": "Cool Gray No.00",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1F4F7",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "C-0",
+    "name": {
+      "en": "Cool Gray No.0",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EBEFF2",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "C-1",
+    "name": {
+      "en": "Cool Gray No.1",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E6EBEE",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "C-2",
+    "name": {
+      "en": "Cool Gray No.2",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DAE0E5",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "C-3",
+    "name": {
+      "en": "Cool Gray No.3",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#D0D6DB",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "C-4",
+    "name": {
+      "en": "Cool Gray No.4",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B9C1C7",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "C-5",
+    "name": {
+      "en": "Cool Gray No.5",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#A5ADB3",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "C-6",
+    "name": {
+      "en": "Cool Gray No.6",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#8D979D",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "C-7",
+    "name": {
+      "en": "Cool Gray No.7",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#6F767B",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "C-8",
+    "name": {
+      "en": "Cool Gray No.8",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#595F63",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "C-9",
+    "name": {
+      "en": "Cool Gray No.9",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#3F4448",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "C-10",
+    "name": {
+      "en": "Cool Gray No.10",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#222327",
+    "inClassic": true,
+    "inCiao": false
+  },
+  // N (11)
+  {
+    "code": "N-0",
+    "name": {
+      "en": "Neutral Gray No.0",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F2F2F3",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-1",
+    "name": {
+      "en": "Neutral Gray No.1",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EBECEC",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-2",
+    "name": {
+      "en": "Neutral Gray No.2",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E4E4E4",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-3",
+    "name": {
+      "en": "Neutral Gray No.3",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DCDDDD",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-4",
+    "name": {
+      "en": "Neutral Gray No.4",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C9CACA",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-5",
+    "name": {
+      "en": "Neutral Gray No.5",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B5B6B6",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-6",
+    "name": {
+      "en": "Neutral Gray No.6",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9FA0A0",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-7",
+    "name": {
+      "en": "Neutral Gray No.7",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7D7D7D",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-8",
+    "name": {
+      "en": "Neutral Gray No.8",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#656464",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-9",
+    "name": {
+      "en": "Neutral Gray No.9",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#4B4949",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "N-10",
+    "name": {
+      "en": "Neutral Gray No.10",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#2E2725",
+    "inClassic": true,
+    "inCiao": false
+  },
+  // T (11)
+  {
+    "code": "T-0",
+    "name": {
+      "en": "Toner Gray No.0",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F2F2F3",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-1",
+    "name": {
+      "en": "Toner Gray No.1",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F1F1F0",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-2",
+    "name": {
+      "en": "Toner Gray No.2",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EAEAE8",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-3",
+    "name": {
+      "en": "Toner Gray No.3",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DDDCD8",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-4",
+    "name": {
+      "en": "Toner Gray No.4",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C9C9C6",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-5",
+    "name": {
+      "en": "Toner Gray No.5",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B5B4B0",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-6",
+    "name": {
+      "en": "Toner Gray No.6",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9F9F9B",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-7",
+    "name": {
+      "en": "Toner Gray No.7",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7D7C78",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-8",
+    "name": {
+      "en": "Toner Gray No.8",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#656360",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-9",
+    "name": {
+      "en": "Toner Gray No.9",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#4B4845",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "T-10",
+    "name": {
+      "en": "Toner Gray No.10",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#2E2723",
+    "inClassic": true,
+    "inCiao": false
+  },
+  // W (12)
+  {
+    "code": "W-00",
+    "name": {
+      "en": "Warm Gray No.00",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F8F7F2",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "W-0",
+    "name": {
+      "en": "Warm Gray No.0",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#F2F2EC",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "W-1",
+    "name": {
+      "en": "Warm Gray No.1",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#EFEEE9",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "W-2",
+    "name": {
+      "en": "Warm Gray No.2",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#E6E5E0",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "W-3",
+    "name": {
+      "en": "Warm Gray No.3",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#DDDCD7",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "W-4",
+    "name": {
+      "en": "Warm Gray No.4",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#C9C9C3",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "W-5",
+    "name": {
+      "en": "Warm Gray No.5",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#B5B5AF",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "W-6",
+    "name": {
+      "en": "Warm Gray No.6",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#9F9F99",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "W-7",
+    "name": {
+      "en": "Warm Gray No.7",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#7D7C78",
+    "inClassic": true,
+    "inCiao": true
+  },
+  {
+    "code": "W-8",
+    "name": {
+      "en": "Warm Gray No.8",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#656460",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "W-9",
+    "name": {
+      "en": "Warm Gray No.9",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#4B4944",
+    "inClassic": true,
+    "inCiao": false
+  },
+  {
+    "code": "W-10",
+    "name": {
+      "en": "Warm Gray No.10",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "#2E2721",
+    "inClassic": true,
+    "inCiao": false
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "code": "W-",
+    "name": {
+      "en": "Warm Gray No.",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "",
+    "inClassic": false,
+    "inCiao": false
+  },
+  {
+    "code": "",
+    "name": {
+      "en": "",
+      "jp": "",
+      "zh": ""
+    },
+    "hex": "",
+    "inClassic": false,
+    "inCiao": false
+  },
+
+]
