@@ -14,15 +14,15 @@
 - Installation
 ```sh
 # npm
-npm install @alanaudi/tailwindcss-colors
+npm install @alanaudi/colors
 # yarn
-yarn add @alanaudi/tailwindcss-colors
+yarn add @alanaudi/colors
 ```
 
 - Configuration
 ```js
 // tailwind.config.js
-const copicColors = require('@alanaudi/tailwindcss-colors')
+const copicColors = require('@alanaudi/colors')
 
 module.exports = {
   mode: 'jit',
